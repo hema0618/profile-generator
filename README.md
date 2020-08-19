@@ -14,5 +14,18 @@ This Node CLI builds a team-displaying HTML file for a user based on their input
 
 
  ## Installation
- 
+
 Run node.js and perform an npm install to bring in all necesarry node modules. The program is run with the command "node app.js"
+
+# Getting Started
+
+## Prerequisites
+
+You need PC, laptop or smartphone with Mozilla,Edge or Safari browser to visit the Profile-generator.
+
+
+
+# Contact
+* Hema - khemalatha507@gmail.com
+* [Profile Generator URL] https://hema0618.github.io/profile-generator/
+* Repository https://github.com/hema0618/profile-generator
