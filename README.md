@@ -6,3 +6,13 @@ This Node CLI builds a team-displaying HTML file for a user based on their input
 
 ## Testing
 
+![Result](https://user-images.githubusercontent.com/67700843/90696301-00f90b00-e24a-11ea-88e8-43ce6f57afd3.PNG)
+
+* Generated HTML page
+  
+  ![Capture](https://user-images.githubusercontent.com/67700843/90696416-2ede4f80-e24a-11ea-9aa7-66def8d4b983.PNG)
+
+
+ ## Installation
+ 
+Run node.js and perform an npm install to bring in all necesarry node modules. The program is run with the command "node app.js"
